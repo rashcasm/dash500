@@ -33,7 +33,7 @@ A web-based financial dashboard for visualizing NIFTY 500 stock market data. Thi
    ```
 
 4. **Add your Upstox API Access Token**:
-   - Open `app.py` and paste your token:
+   Open `app.py` and paste your token:
      ```python
      ACCESS_TOKEN = 'your_token_here'
      ```
